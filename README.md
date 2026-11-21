@@ -1,6 +1,6 @@
 # Council GIS Portfolio – Tim Pashupati
 
-Former Council Environmental Health Officer (Merri-bek City Council) building
+Former Graduate Environmental Health Officer (Merri-bek City Council), now building
 spatial tools for local government. Melbourne, Victoria.
 
 **Skills:** QGIS · PostGIS · SQL · Python · Graphical Modeler · Victorian open data (Vicmap, DataVic, ABS)
